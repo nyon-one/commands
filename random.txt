@@ -1,0 +1,2 @@
+// react native windows init
+yarn add rnpm-plugin-windows --dev && react-native windows && react-native run-windows
