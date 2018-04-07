@@ -1,0 +1,2 @@
+//set current dir to path(persistent)
+set _PATH="%CD%;%PATH%" && setx -m PATH %_PATH%
